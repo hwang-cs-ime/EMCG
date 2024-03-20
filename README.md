@@ -4,7 +4,7 @@
 ### [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9276462)
 
 > **Learning Fundamental Visual Concepts Based on Evolved Multi-Edge Concept Graph** <br>
-> [Hang Wang], [Youtian Du], [Guangxun Zhang], [Zhongmin Cai], and Chang Su. <br>
+> [Hang Wang], [Youtian Du], [Guangxun Zhang], [Zhongmin Cai], and [Chang Su]. <br>
 > In TMM-2020.
 
 
