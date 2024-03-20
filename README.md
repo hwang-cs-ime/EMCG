@@ -33,6 +33,12 @@ In general, visual media comprises a set of elements of basic semantics, named f
 
 This project is released under the MIT license.
 
+
+### Contact
+If you have any questions, please feel free to contact: cshwang@comp.polyu.edu.hk
+
+
+
 ### Citation
 ```
 @ARTICLE{9276462,
